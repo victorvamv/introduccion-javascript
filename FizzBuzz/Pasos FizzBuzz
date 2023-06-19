@@ -1,0 +1,14 @@
+FizzBuzz -->
+El usuario da el limite de la lista.
+lista = [1, 2, 3, 4, ...]
+Dos números 3 y 5 si es divisible a 3 se intercambia a Fizz, si es divisible a 5 se intercambia a Buzz
+Si es divisible con 3 y 5 se intercambia con FizzBuzz
+
+Pasos:
+1.- Se debe crear una lista 
+	--> Generar una lista con los elementos que dio el usuario
+	--> Crear una variable que empezara en 1. 
+		let x = 1
+	--> Para que se genere automaticamente los números debe aumentar en +1
+	
+2.- 
